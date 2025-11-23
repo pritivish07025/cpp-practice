@@ -1,0 +1,15 @@
+1. folder mein folder : Notepad mein folder mein folder banane ke liye right click karte hai and fir name set karke save kr dete hai  
+   -----------------    is  tarah se notepad  folder ke andar folder bana sakte hai.
+     
+
+2. dir : command se ek desktop mein kitni direcdtory hai pata chal jaata hai
+   ----
+
+
+3. cd folder_name :  isse hum us folder mein chale jaate hai
+   --------------- 
+
+
+4. cls: CMD (Command Prompt) mein screen clear kar sakte hai 
+   ----
+
