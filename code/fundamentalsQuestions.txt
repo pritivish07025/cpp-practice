@@ -1,0 +1,103 @@
+Write a program to print "Hello, World!" in C++.
+
+Take input from the user and print it back.
+
+Add two numbers entered by the user.
+
+Find the size of int, float, double, and char data types.
+
+Swap two numbers using a third variable.
+
+Swap two numbers without using a third variable.
+
+Calculate the area of a rectangle, circle, and triangle.
+
+Convert Celsius to Fahrenheit.
+
+Check whether a number is even or odd.
+\
+Find the largest of two numbers.
+
+Find the largest among three numbers.
+
+Check if a number is positive, negative, or zero.
+
+Check if a character is a vowel or consonant.
+
+Check leap year or not.
+
+Find grade based on marks (A, B, C, etc.).
+
+Simple calculator using switch case.
+
+Check whether a number is divisible by 5 and 11.
+
+Find roots of a quadratic equation.
+
+Check if a character is uppercase, lowercase, digit, or special symbol.
+
+Print day name using number (1 = Monday, etc.).
+
+given array mein loop ke through value assign karna and un values ko print kawarna 
+
+WAF to calculate sum & product of all numbers in an array
+
+WAF to swap the max & min number of an array
+ 
+WAF to print all the unique values in an array 
+
+WAF to print intersection of 2 arrays 
+
+Bubble sort 
+
+WAP to check whether a user vote or not .
+
+Print numbers from 1 to n.
+
+Print even and odd numbers up to n.
+
+Find sum of first n natural numbers.
+
+Find factorial of a number.
+
+Print multiplication table of a given number.
+
+Reverse a number.
+
+Count number of digits in a number.
+
+Find sum of digits of a number.
+
+Check palindrome number.
+
+Check Armstrong number.
+
+Print Fibonacci series up to n terms.
+
+Find LCM and GCD of two numbers.
+
+Print all prime numbers between 1 and 100.
+
+Check if a number is prime or not.
+
+Find the power of a number using loop.
+
+Write a function to find factorial of a number.
+
+Write a function to check if a number is prime.
+
+Write a function to find the largest of three numbers.
+
+Write a function to swap two numbers using call by value.
+
+Write a function to swap two numbers using call by reference.
+
+Write a function to reverse a number.
+
+Write a function to check palindrome number.
+
+Write a recursive function for factorial.
+
+Write a recursive function for Fibonacci series.
+
+Write a function to find power using recursion.
