@@ -1,0 +1,126 @@
+c++ ek case sensitive language hai 
+
+c++ mein output :  cout<< ;    is ki help se print karate  hai 
+c++ mein inout  : cin>>  ;     is ki help se lete hai
+
+c++ ka boiler plate  :
+                       #include <iostream>    isko preprosasser directive kehte hai jo compilor ko batata hai "iostream" ka file jisme "cout" ka logic likha hai 
+                       using namespace std;   "namespace" ek file hai jisme kai saari chijo ka logic likha hua hai aur "std"" batata hai ki hume kon sa (cout) use karna hai
+                       int main(){  
+                         this is the main function , jaha se compilor ko pata chalta hai ki humara code start ho rha hai.
+
+                         return 0;
+                       }
+
+
+c++ mein comment -   // single line comment 
+                     /* Multiline comment   */
+
+
+c++ extention      -  .cpp 
+"  ; "   it is terminator in c++  to terminate the code .
+
+std::cout<<"
+
+running step :  code.cpp -> compilor ->code.exe
+              g++ (ye c++ compilor ko invoke karta hai ) code.cpp          compilation stage (isne executable file banaa di ){ a.exe file for windows , a.out file for mac}
+              ./a.exe                                                      stage 2
+
+endl , /n  :  isse c++ mein next line pr jaate hai 
+note: c++ space bhi count hota hai .
+ctrl + /   : isse code comment ho jayegi
+
+variable  : it is a name of memory location we store some data (number se kabhi bhi start nhi hoga , underscore se ya variable se )
+            variable humesha data type ke sath declare kiya jaata hai
+            int age =25;
+             
+            
+
+character : single quote 
+string double quotes 
+
+
+data type    :          int    - 4 bytes
+                     char   - 1 bytes
+                     float  -  4 byte
+                     bool   -  1 byte
+                     double -  8 byte
+
+type casting :      convertion data from one type to another type 
+
+
+
+
+function 
+-------------------------------------------------
+
+if we want to do any task again and again then we use function
+function tab tak run nahi karega jab tak usko call nhi karenge aur ye call main function mein hota hai .
+
+
+
+returnType functionName(){
+cout<<hello;
+}
+functionName();               //function call 
+
+>> example <<
+-------------
+
+
+#include <iostream>
+using namespace std;
+
+int  printHello(){
+    cout<<"hello\n";
+    return 3;  // return hum kuch bhi kara sakte hai and chahe toh us return value ko print bhi kara sakte hai 
+}
+int main(){
+ // function call
+ int val =printHello();  // is waale vale line mein humne return value ko print karaya hai 
+ cout << printHello()<<endl; // YE WAli line se ye samjh aaya ki hum return value ko bina kisi variable mein store karaye bhi usko print kara sakte hai 
+ cout <<"val ="<< val <<endl;
+ return 0;
+}
+
+function ek tarah se aaisa system hota hai jo input leta hai and output return karta hai .
+iske andar para meter ke concept aate hai jo important hote hai 
+ >> Parameter<< 
+
+ returnType functionName( type parameter1Name , typr parameter2Name ){
+  //do some workn
+ }
+
+
+ 
+ CHARACTER ARRAY
+ ------------------
+
+ char str[]={'p','r','i','t','i'}
+ cout<<str<<endl;
+
+ is case mere pass ye joined STRING milega 
+
+ INTEGER ARRAY
+ --------------
+ is case mein mere pass address milega 
+
+ int str[]={1,2,3,4,5};
+ cout<<str<<endl
+
+ strlen :- it is defined the string length
+ -------
+
+ when we assign any value to the character array toh wo automatically null character le leta hai
+
+
+
+ input & output 
+ -------------
+
+ jab hum character array mein koi string assign karte hai cin ka use karke toh agar space aa jaata hai toh ye space ke baad wale words ko remove kar deta hai 
+ isilie hum is niche diye huye function ka generally use karte hai string ko input lene ke liye 
+
+ cin.getline(str,len,delim?)
+
+ str: character ka naam, len : no of character , delim: ye stop karta hai input ko lena (matlb maan lo user jab koi sign apply kare ya koi condition de toh uske baad ka input nhi lega)
