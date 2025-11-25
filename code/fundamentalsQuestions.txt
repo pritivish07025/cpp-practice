@@ -15,7 +15,7 @@ Calculate the area of a rectangle, circle, and triangle.
 Convert Celsius to Fahrenheit.
 
 Check whether a number is even or odd.
-\
+
 Find the largest of two numbers.
 
 Find the largest among three numbers.

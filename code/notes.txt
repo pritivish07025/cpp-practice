@@ -45,6 +45,7 @@ data type    :          int    - 4 bytes
                      float  -  4 byte
                      bool   -  1 byte
                      double -  8 byte
+ sizeof() : isse hum data type ki size nikal sakte hai 
 
 type casting :      convertion data from one type to another type 
 

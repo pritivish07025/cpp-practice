@@ -13,3 +13,5 @@
 4. cls: CMD (Command Prompt) mein screen clear kar sakte hai 
    ----
 
+5. cout ke baad agar space hai toh space bhi consider hota hai 
+
