@@ -20,25 +20,23 @@
 
 11.Find the largest among three numbers.
 
-12.Check if a number is positive, negative, or zero.
+12. check if a character is a vowel or consonant.
 
-Check if a character is a vowel or consonant.
+13. Check leap year or not.
 
-Check leap year or not.
+14.Find grade based on marks (A, B, C, etc.).
 
-Find grade based on marks (A, B, C, etc.).
+15.Simple calculator using switch case.
 
-Simple calculator using switch case.
+16.Check whether a number is divisible by 5 and 11.
 
-Check whether a number is divisible by 5 and 11.
+17.Find roots of a quadratic equation.
 
-Find roots of a quadratic equation.
+18.Check if a character is uppercase, lowercase, digit, or special symbol.
 
-Check if a character is uppercase, lowercase, digit, or special symbol.
+19.Print day name using number (1 = Monday, etc.).
 
-Print day name using number (1 = Monday, etc.).
-
-given array mein loop ke through value assign karna and un values ko print kawarna 
+20.given array mein loop ke through value assign karna and un values ko print kawarna 
 
 WAF to calculate sum & product of all numbers in an array
 
