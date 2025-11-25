@@ -1,26 +1,26 @@
-Write a program to print "Hello, World!" in C++.
+1.Write a program to print "Hello, World!" in C++.
 
-Take input from the user and print it back.
+2.Take input from the user and print it back.
 
-Add two numbers entered by the user.
+3.Add two numbers entered by the user.
 
-Find the size of int, float, double, and char data types.
+4.Find the size of int, float, double, and char data types.
 
-Swap two numbers using a third variable.
+5.Swap two numbers using a third variable.
 
-Swap two numbers without using a third variable.
+6.Swap two numbers without using a third variable.
 
-Calculate the area of a rectangle, circle, and triangle.
+7.Calculate the area of a rectangle, circle, and triangle.
 
-Convert Celsius to Fahrenheit.
+8.Convert Celsius to Fahrenheit.
 
-Check whether a number is even or odd.
+9.Check whether a number is even or odd.
 
-Find the largest of two numbers.
+10.Find the largest of two numbers.
 
-Find the largest among three numbers.
+11.Find the largest among three numbers.
 
-Check if a number is positive, negative, or zero.
+12.Check if a number is positive, negative, or zero.
 
 Check if a character is a vowel or consonant.
 
