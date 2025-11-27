@@ -15,3 +15,14 @@
 
 5. cout ke baad agar space hai toh space bhi consider hota hai 
 
+
+6. upward wali key seb purani command wapis aa jaati hai and lower key se nayi command wapis aa jati hai
+
+
+7. ctrl+/ se automatically line hum comment kar sakte hai
+
+
+8. agar puri line ko comment karna hai toh un files ko select karna hai and then fir (ctrl+/) press karke poori line comment kar deni hai 
+
+
+9. sizeof(varibble name) : ye batata hai variable ka data type

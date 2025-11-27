@@ -38,6 +38,33 @@
 
 20.given array mein loop ke through value assign karna and un values ko print kawarna 
 
+21. Build calculator using c++
+
+22.chech whether a person can vote or not
+
+23.check whether a number is positive or negative
+
+24.check a number is odd or even
+
+25.create a grading system
+
+26.find character is lowercase or uppercase
+
+27.print a number 1 to n
+
+28.sum of all numbers from 1 to n
+
+29.check whether a number is prime or not
+
+30. count prime numbers between the range of numbers
+
+31. print
+     
+   ****
+   ****
+   ****
+   ****
+
 WAF to calculate sum & product of all numbers in an array
 
 WAF to swap the max & min number of an array
